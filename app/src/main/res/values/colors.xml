@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_gray">#D6D1D1</color>
+    <color name="editTextStrokeColor">#BDBDBD</color>
+    <color name="textColorPrimaryDark">@android:color/white</color>
+
+    <!-- Define custom colors for dark mode -->
+    <color name="primary_dark">#FFFFFF</color>
+    <color name="secondary_dark">#CCCCCC</color>
+    <!-- Define other custom colors as needed -->
+
+
+</resources>

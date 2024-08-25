@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">7News</string>
+    <string name="notification_icon_desc">Notification Icon Description</string>
+    <string name="play_pause">Play/Pause</string>
+    <string name="are_you_sure_to_exit">Are you sure to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+</resources>

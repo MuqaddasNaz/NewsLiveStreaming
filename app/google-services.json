@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "244896114370",
+    "firebase_url": "https://news-a553c-default-rtdb.firebaseio.com",
+    "project_id": "news-a553c",
+    "storage_bucket": "news-a553c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244896114370:android:241e2f4cea53b020adfd5b",
+        "android_client_info": {
+          "package_name": "com.example.a7newsadminapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClwaN3xd9Q_fACKFdHks_Y1-N_4VXSLoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244896114370:android:4b6893ab09fc5f20adfd5b",
+        "android_client_info": {
+          "package_name": "com.example.newslivestreaming"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClwaN3xd9Q_fACKFdHks_Y1-N_4VXSLoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
